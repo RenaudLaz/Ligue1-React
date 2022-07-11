@@ -1,0 +1,18 @@
+.ligue1-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px #cefb03;
+    background-color: #091b3c;
+}
+.ligue1-champion {
+    text-align: center;
+    font-size: 20px;
+}
+
+.ligue1-eats {
+    color: #01c267;
+}

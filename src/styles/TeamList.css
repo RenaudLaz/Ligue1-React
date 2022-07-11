@@ -1,0 +1,11 @@
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+    width: 200px;
+    height: 650px;
+    background-color: #091b3c;
+    position: fixed;
+    bottom: 0;
+}
