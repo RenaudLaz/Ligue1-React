@@ -1,0 +1,24 @@
+.ligue1 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    text-align: center;
+    background-color: #091b3c;
+}
+img {
+    width: auto;
+    height: 100px;
+}
+.ligue1-club-name {
+    margin: 40px;
+    border: solid 2px #cefb03;
+    border-radius: 10px;
+    background-color: #091b3c;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+h3,
+h2 {
+    color: #cefb03;
+    text-decoration: underline;
+}

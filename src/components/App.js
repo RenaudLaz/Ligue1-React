@@ -1,14 +1,12 @@
 import Header from './Header'
-import TeamList from './TeamList'
-import Teams from './Teams'
 import '../styles/Reset.css'
+import CLubs from './Card'
 
 function App() {
   return (
     <div>
       <Header />
-      <TeamList />
-      <Teams />
+      <CLubs />
     </div>
   )
 }
