@@ -17,6 +17,10 @@ img {
     text-decoration: none;
     font-size: 20px;
 }
+.logo-trophee {
+    width: auto;
+    height: 40px;
+}
 h3,
 h2 {
     color: #cefb03;
